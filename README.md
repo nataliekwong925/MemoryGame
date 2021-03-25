@@ -4,7 +4,7 @@
 
 Submitted by: **Natalie Kwong**
 
-Time spent: **#** hours spent in total
+Time spent: **5** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/amber-jungle-kite
 
@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+![]https://i.imgur.com/LU9AUES.gif
 
 
 ## Reflection Questions
