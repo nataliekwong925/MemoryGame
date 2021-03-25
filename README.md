@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![]https://i.imgur.com/LU9AUES.gif
+![]https://i.imgur.com/a0arMCe.mp4
 
 
 ## Reflection Questions
